@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+</resources>
